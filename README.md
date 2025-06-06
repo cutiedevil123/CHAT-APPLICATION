@@ -68,5 +68,6 @@ A **real-time chat application** built with the MERN stack (MongoDB, Express.js,
 ---
 
 ### 📸 Screenshots
-![Image](https://github.com/user-attachments/assets/4b374fd2-981c-46a6-a545-6a1097151956)
 ![Image](https://github.com/user-attachments/assets/ea6123ae-7035-4e45-830b-b3c2f41217fd)
+![Image](https://github.com/user-attachments/assets/4b374fd2-981c-46a6-a545-6a1097151956)
+
